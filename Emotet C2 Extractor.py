@@ -1,4 +1,3 @@
-```python 
 import pefile
 import struct
 import binascii
